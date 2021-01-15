@@ -30,4 +30,7 @@ http://uotv.gearhostpreview.com/av.php?id=9
 #EXTINF:-1 group-title="JV" tvd-id="CH10",CH10
 http://uotv.gearhostpreview.com/av.php?id=10
 
+#EXTINF:-1 group-title="JV" tvd-id="LeoTV",LeoTV
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+
 \
