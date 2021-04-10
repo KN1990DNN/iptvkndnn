@@ -14,8 +14,18 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlis
 
 #EXTINF:-1, TPL1
 https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8
+
 #EXTINF:-1,Astro1 MY
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+
+#EXTINF:-1,Astro2 MY
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+
+#EXTINF:-1,Astro3 MY
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+
+#EXTINF:-1,Astro4 MY
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 
 #EXTINF:-1,SKY NET พม่า
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
