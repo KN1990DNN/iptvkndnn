@@ -1,37 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1,BT SPORTS 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
-
-#EXTINF:-1,BT SPORTS 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
-
-#EXTINF:-1,BT SPORTS 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport3/playlist.m3u8
-
-#EXTINF:-1,BT SPORTS ESPN
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8
-
-#EXTINF:-1, TPL1
-https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8
-
-#EXTINF:-1,AstroSS 1 MY
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
-
-#EXTINF:-1,AstroSS 2 MY
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
-
-#EXTINF:-1,AstroSS 3 MY
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
-
-#EXTINF:-1,AstroSS 4 MY
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
-
-#EXTINF:-1,SKY NET พม่า
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-
-#EXTINF:-1,หนัง kingkong 
-https://vodm5.inwstream.com:1936/movie3/Godzilla_vs_Kong_2021/Godzilla_vs_Kong_2021_thr_z1.mp4
+#EXTINF:-1 tvg-name="Astro Super Sport 1 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 1 HD
+http://152.89.62.111:8080/james3/james3/241164
+#EXTINF:-1 tvg-name="Astro Super Sport 2 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 2 HD
+http://152.89.62.111:8080/james3/james3/241165
+#EXTINF:-1 tvg-name="Astro Super Sport 4 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 4 HD
+http://152.89.62.111:8080/james3/james3/241166
+#EXTINF:-1 tvg-name="Astro Super Sport 3 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 3 HD
+http://152.89.62.111:8080/james3/james3/287835
+#EXTINF:-1 tvg-name="Astro ARENA" tvg-logo="http://77.68.73.254/sport/astro-arena-my.png" group-title="Astro Super Sports / Spark",Astro ARENA
+http://152.89.62.111:8080/james3/james3/290851
+#EXTINF:-1 tvg-name="Astro beIN MAX" tvg-logo="http://77.68.73.254/sport/bein-sports-max-hz-my.png" group-title="Astro Super Sports / Spark",Astro beIN MAX
+http://152.89.62.111:8080/james3/james3/290846
+#EXTINF:-1 tvg-name="Astro beIN Sports" tvg-logo="http://77.68.73.254/sport/bein-sports-max-hz-my.png" group-title="Astro Super Sports / Spark",Astro beIN Sports
+http://152.89.62.111:8080/james3/james3/290847
+#EXTINF:-1 tvg-name="Astro beIN Sports Max 1" tvg-logo="http://77.68.73.254/sport/bein-sports-max-hz-my.png" group-title="Astro Super Sports / Spark",Astro beIN Sports Max 1
+http://152.89.62.111:8080/james3/james3/290848
+#EXTINF:-1 tvg-name="Astro beIN Sports Max 2" tvg-logo="http://77.68.73.254/sport/bein-sports-max-hz-my.png" group-title="Astro Super Sports / Spark",Astro beIN Sports Max 2
+http://152.89.62.111:8080/james3/james3/290849
+#EXTINF:-1 tvg-name="Astro beIN Sports Max 3" tvg-logo="http://77.68.73.254/sport/bein-sports-max-hz-my.png" group-title="Astro Super Sports / Spark",Astro beIN Sports Max 3
+http://152.89.62.111:8080/james3/james3/290850
+#EXTINF:-1 tvg-name="Astro CRICKET" tvg-logo="http://77.68.73.254/sport/astro-cricket-my.png" group-title="Astro Super Sports / Spark",Astro CRICKET
+http://152.89.62.111:8080/james3/james3/290845
+#EXTINF:-1 tvg-name="Astro eGG Network" tvg-logo="http://77.68.73.254/sport/egg-network-my.png" group-title="Astro Super Sports / Spark",Astro eGG Network
+http://152.89.62.111:8080/james3/james3/290839
+#EXTINF:-1 tvg-name="Astro EUROSPORT HD" tvg-logo="https://i.pinimg.com/originals/a6/69/f5/a669f591caf32178fafbe8f3d4477b02.png" group-title="Astro Super Sports / Spark",Astro EUROSPORT HD
+http://152.89.62.111:8080/james3/james3/290841
+#EXTINF:-1 tvg-name="Astro FOX SPORTS HD" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-FOXSportsHD-Ch832-300x185.png" group-title="Astro Super Sports / Spark",Astro FOX SPORTS HD
+http://152.89.62.111:8080/james3/james3/290842
+#EXTINF:-1 tvg-name="Astro FOX SPORTS 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="Astro Super Sports / Spark",Astro FOX SPORTS 2 HD
+http://152.89.62.111:8080/james3/james3/290843
+#EXTINF:-1 tvg-name="Astro FOX SPORTS 3 HD" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/c/ce/Fox_Sports_3_HD_logo.png" group-title="Astro Super Sports / Spark",Astro FOX SPORTS 3 HD
+http://152.89.62.111:8080/james3/james3/290844
+#EXTINF:-1 tvg-name="Astro GOLF" tvg-logo="https://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png" group-title="Astro Super Sports / Spark",Astro GOLF
+http://152.89.62.111:8080/james3/james3/290840
+#EXTINF:-1 tvg-name="Astro RUGBY PASS TV" tvg-logo="https://www.boomtownbrew.com/wp-content/uploads/2018/04/Favicon.png" group-title="Astro Super Sports / Spark",Astro RUGBY PASS TV
+http://152.89.62.111:8080/james3/james3/290853
+#EXTINF:-1 tvg-name="Astro WWE NETWORK" tvg-logo="http://77.68.73.254/sport/wwe.png" group-title="Astro Super Sports / Spark",Astro WWE NETWORK
+http://152.89.62.111:8080/james3/james3/290852
+#EXTINF:-1 tvg-id="1.S" tvg-name="Spark Sports Event 1" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 1
+http://152.89.62.111:8080/james3/james3/223329
+#EXTINF:-1 tvg-id="2.S" tvg-name="Spark Sports Event 2" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 2
+http://152.89.62.111:8080/james3/james3/223331
+#EXTINF:-1 tvg-id="3.S" tvg-name="Spark Sports Event 3" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 3
+http://152.89.62.111:8080/james3/james3/223332
+#EXTINF:-1 tvg-id="4.S" tvg-name="Spark Sports Event 4" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 4
+http://152.89.62.111:8080/james3/james3/223333
+#EXTINF:-1 tvg-id="5.S" tvg-name="Spark Sports Event 5" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 5
+http://152.89.62.111:8080/james3/james3/223334
+#EXTINF:-1 tvg-id="6.S" tvg-name="Spark Sports Event 6" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 6
+http://152.89.62.111:8080/james3/james3/223335
+#EXTINF:-1 tvg-id="7.S" tvg-name="Spark Sports Event 7" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 7
+http://152.89.62.111:8080/james3/james3/223336
+#EXTINF:-1 tvg-id="8.S" tvg-name="Spark Sports Event 8" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 8
+http://152.89.62.111:8080/james3/james3/223337
+#EXTINF:-1 tvg-id="9.S" tvg-name="Spark Sports Event 9" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 9
+http://152.89.62.111:8080/james3/james3/223338
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="Spark Sports Event 10" tvg-logo="http://77.68.73.254/sport/Spark-sport.png" group-title="Astro Super Sports / Spark",Spark Sports Event 10
+http://152.89.62.111:8080/james3/james3/2233
 
 
 \
