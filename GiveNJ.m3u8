@@ -2,12 +2,20 @@
 
 #EXTINF:-1 tvg-name="Astro Super Sport 1 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 1 HD
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Astro Super Sport 2 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 2 HD
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Astro Super Sport 4 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 4 HD
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Astro Super Sport 3 HD" tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="Astro Super Sports / Spark",Astro Super Sport 3 HD
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
+#EXTINF:-1   tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-1-761.png" group-title="Sports ID",BeIN Sport1 Premium
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN Sport 2 Premium
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 \
